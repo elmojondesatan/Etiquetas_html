@@ -1,0 +1,21 @@
+body{
+    margin-top: 0;
+}
+
+header{
+    width: 375px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.btn_git{
+    width: 60px;
+    height: 25px;
+    border-radius: 3px;
+    color: white;
+    background-color: rgb(31, 10, 10);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
